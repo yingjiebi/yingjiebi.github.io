@@ -14,10 +14,11 @@ I received my B.S. in Microelectronics from Peking University in 2014 and my Ph.
 
 # Publications
 
-- **Y. Bi** and J. Lavaei, "[On the absence of spurious local minima in nonlinear low-rank matrix recovery problems](http://lavaei.ieor.berkeley.edu/non_M_Rec_2020_1.pdf)," preprint.
-- Y. Ding, **Y. Bi**, and J. Lavaei, "[Analysis of spurious local solutions of optimal control problems: One-shot optimization versus dynamic programming](http://lavaei.ieor.berkeley.edu/DP_1_2020.pdf)," preprint.
+- **Y. Bi** and J. Lavaei, "[Global and local analyses of nonlinear low-rank matrix recovery problems](http://www.ieor.berkeley.edu/~lavaei/non_M_Rec_2020_2.pdf)," preprint.
 - **Y. Bi** and J. Lavaei, "[On the connectivity properties of feasible regions of optimal decentralized control problems](http://www.ieor.berkeley.edu/~lavaei/ODC_Dyn_1_2020.pdf)," preprint.
-- **Y. Bi** and J. Lavaei, "[Identifying the connectivity of feasible regions for optimal decentralized control problems](http://www.ieor.berkeley.edu/~lavaei/ODC_connected_2020_1.pdf)," to appear in _IEEE CDC 2020_.
+- Y. Ding, **Y. Bi**, and J. Lavaei, "[Analysis of spurious local solutions of optimal control problems: One-shot optimization versus dynamic programming](http://lavaei.ieor.berkeley.edu/DP_1_2020.pdf)," to appear in _ACC 2021_.
+- **Y. Bi** and J. Lavaei, "[On the absence of spurious local minima in nonlinear low-rank matrix recovery problems](http://lavaei.ieor.berkeley.edu/non_M_Rec_2020_1.pdf)," to appear in _AISTATS 2021_.
+- **Y. Bi** and J. Lavaei, "[Identifying the connectivity of feasible regions for optimal decentralized control problems](https://doi.org/10.1109/CDC42340.2020.9304050)," _IEEE CDC 2020_ ([slides](assets/cdc-2020-slides.pdf)).
 - **Y. Bi** and A. Tang, "[Duality gap estimation via a refined Shapley-Folkman lemma](https://doi.org/10.1137/18M1174805)," _SIAM Journal on Optimization_, vol. 30, no. 2, pp. 1094-1118, 2020.
 - **Y. Bi** and A. Tang, "[On upper bounding Shannon capacity of graph through generalized conic programming](https://doi.org/10.1007/s11590-019-01436-7)," _Optimization Letters_, vol. 13, no. 6, pp. 1313-1323, Sep. 2019.
 - **Y. Bi** and A. Tang, "[Uncertainty-aware optimization for network provisioning and routing](https://doi.org/10.1109/CISS.2019.8692834)," _IEEE CISS 2019_ ([slides](assets/ciss-2019-slides.pdf)).
